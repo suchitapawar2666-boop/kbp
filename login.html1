@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <script>
+      // primitive data types
+      
+      //string
+      let name = "John"; 
+      console.log(name);
+      console.log(typeof name);
+
+
+      //number
+      let age=24;
+      console.log(age);
+      console.log(typeof age);  
+
+      //bigint
+      let abc =76201445666666666666666666666666666n;
+      console.log(abc);
+      console.log(typeof abc);
+
+      //boolean
+      let a = true;
+      console.log(a);
+      console.log(typeof a);
+
+        //undefined
+      console.log("mobile");
+      console.log(typeof mobile);
+       
+      //null
+      let a1 =null;
+      console.log(a1);
+      console.log(typeof a1);
+
+      //symbol
+      let k1 =Symbol("hello");
+      console.log(k1);
+      console.log(typeof k1);
+
+    </script>
+</body>
+</ht
